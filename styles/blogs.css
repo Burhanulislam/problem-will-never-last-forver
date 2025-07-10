@@ -4,3 +4,23 @@
     border-radius: 10px;
     padding: 10px;
 }
+.actress{
+    margin-top: 50px;
+    padding: 20px;
+}
+.my-img{
+    display: flex;
+    margin-top: 50px;
+    padding: 20px;
+}
+.btn{
+    margin: 0 44% ;
+    color: black;
+    text-decoration:underline;
+    font-weight: bolder;
+    font-size: larger;
+    background-color: yellowgreen;
+    border: none;
+    padding: 20px;
+    border-radius: 5px;
+}
